@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Produtos",
+  "description": "Aplicação web para auxiliar líderes de produção no fechamento diário, calculando pesos de produção e gerando relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
